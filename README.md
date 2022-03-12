@@ -6,3 +6,6 @@ click [here](https://leetcode.com/Alan24/ "Leetcode Page") to check out my Leetc
 
 ![Leetcode page](Leetcode_page.png)
 image above is my Leetcode page by the time I'm writing this MarkDown file (2022/03/12)
+
+## My story with Leetcode
+I start to practice writing code on leetcode since 2020 Jan, but back then I know absolutely nothing about Data Structure & Algorithm. With the help of youtube videos and resources online, I slowly improved my skills. Now I'm enjoying coding more than ever ^.^
