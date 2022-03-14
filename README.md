@@ -9,4 +9,4 @@ image above is my Leetcode page by the time I'm writing this MarkDown file (2022
 ## Programming Language
 I'm currently using Java as my main programming language on leetcode.
 ## My story with Leetcode
-I start to practice writing code on leetcode since 2020 Jan, but back then I know absolutely nothing about Data Structure & Algorithm. With the help of youtube videos and resources online, I slowly improved my skills. Now I'm enjoying coding more than ever ^.^
+I start to practice writing code on leetcode since 2020 Jan, but back then I barely know anything about Data Structure & Algorithm. With the help of youtube videos and resources online, I slowly improved my skills. Now I'm enjoying coding more than ever ^.^
