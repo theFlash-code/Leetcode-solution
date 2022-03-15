@@ -10,7 +10,6 @@ class Solution {
         int st = 0;
         StringBuilder sb = new StringBuilder(s);
         for (int i = 0; i < sb.length(); ++i) {
-            // System.out.println(i+" "+st+" "+sb.length());
             if (sb.charAt(i) == '(') {
                 st++;
             } else if (sb.charAt(i) == ')') {
@@ -21,7 +20,6 @@ class Solution {
                     st--;
                 }
             }
-            // System.out.println(st);
         }
         int i = sb.length() - 1;
         while (st > 0 && i >= 0) {
