@@ -7,10 +7,10 @@
 // @lc code=start
 class Solution {
     public int findDuplicate(int[] nums) {
-        Set<Integer> set = new HashSet<>();
+        int[] map = new int[nums.length];
         for(int i=0; i<nums.length; ++i){
-            if(set.contains(nums[i])) return nums[i];
-            set.add(nums[i]);
+            if(map[nums[i]]==1) return nums[i];
+            map[nums[i]]++;
         }
         return -1;
     }
