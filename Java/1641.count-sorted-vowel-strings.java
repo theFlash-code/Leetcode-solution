@@ -6,8 +6,6 @@
 
 // @lc code=start
 class Solution {
-    Set<String> set;
-
     public int countVowelStrings(int n) {
         int a = 1, e = 1, i = 1, o = 1, u = 1;
         int res = 5;
@@ -16,7 +14,6 @@ class Solution {
             e = e + i + o + u;
             i = i + o + u;
             o = o + u;
-            u = u;
             res = a + e + i + o + u;
         }
         return res;
