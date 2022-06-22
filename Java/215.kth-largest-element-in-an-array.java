@@ -1,7 +1,7 @@
 /*
- * @lc app=leetcode id=2157 lang=java
+ * @lc app=leetcode id=215 lang=java
  *
- * [2157] Groups of Strings
+ * [215] Kth Largest Element in an Array
  */
 
 // @lc code=start
